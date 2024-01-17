@@ -15,6 +15,7 @@
 - resource 3) https://demo.templatemonster.com/demo/217796.html?_gl=1*15ebgeq*_ga*ODUwMjE4MjMxLjE3MDUzODIyNDI.*_ga_FTPYEGT5LY*MTcwNTM4MjI0Mi4xLjEuMTcwNTM4MjI2NS4zNy4wLjA.
 
 - resource 4) https://demo.templatemonster.com/demo/69202.html?_gl=1*1ql6fz9*_ga*ODUwMjE4MjMxLjE3MDUzODIyNDI.*_ga_FTPYEGT5LY*MTcwNTM4NTgxOS4yLjEuMTcwNTM4NTgyNy41Mi4wLjA.
+- resource 5) https://deriv.com/ (very useful)
 
 # Some project resources doc :
 
